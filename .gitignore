@@ -1,0 +1,28 @@
+# node.js / npm
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+
+
+node_modules
+
+.tags
+npm-debug.log
+
+
+# misc / editors
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+.nide
+*.iml
+
+# bower components
+src/components
